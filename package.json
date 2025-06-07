@@ -1,7 +1,7 @@
 {
   "name": "Flynn-MD",
   "version": "1.3.5",
-  "description": "Deployment script for CypherX",
+  "description": "Deployment script for Flynn-MD",
   "main": "index.js",
   "engines": {
       "node": ">= 18.x",
