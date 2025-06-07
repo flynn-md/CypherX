@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "Flynn-MD",
   "version": "1.3.5",
   "description": "Deployment script for CypherX",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Tylor",
+  "author": "criss",
   "license": "MIT",
   "dependencies": {
         "adm-zip": "^0.5.16",
